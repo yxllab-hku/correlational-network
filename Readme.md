@@ -31,7 +31,7 @@ This section shows how to reproduce correlation analysis in the paper.
 
 ### Data
 
-To reproduce the results in paper, you should download the [supplementary excel file]() and [dataset]() to the same directory
+To reproduce the results in paper, you should download `supplementary file 1.xlsx` and `23777967_protease_cluster.csv.xz` from [Zenodo](https://doi.org/10.5281/zenodo.5162875) to the same directory
 of the scripts. Then, extract the dataset by xz:
 
     xz -d 23777967_protease_cluster.csv.xz
