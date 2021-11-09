@@ -1,7 +1,7 @@
 # Codes for Correlational networking guides the discovery of cryptic natural product biosynthetic enzymes
 
 This repository is the collection of codes for our
-paper: [Correlational networking guides the discovery of cryptic natural product biosynthetic enzymes](https://www.biorxiv.org/content/10.1101/2021.07.26.453782v2)
+paper: [Correlational networking guides the discovery of cryptic natural product biosynthetic enzymes](https://doi.org/10.1101/2021.07.26.453782)
 
 ## Abstract
 
